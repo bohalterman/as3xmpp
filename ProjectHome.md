@@ -1,0 +1,1 @@
+Allows for manipulation of XMPP packets and handles communication between XMPP Clients and XMPP IM servers.
